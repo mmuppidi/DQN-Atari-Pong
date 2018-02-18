@@ -1,5 +1,7 @@
 # Machine Learning Nano Degree Capstone Project: Deep Reinforcement Learning to train an agent to play Atari Pong game using DQN
 
+![cloud_steps](./assets/model.ckpt-5260000.gif)
+
 I have obtained the starter code from CS 294: Deep Reinforcement Learning, Spring 2017
 
 https://github.com/berkeleydeeprlcourse/homework/tree/master/sp17_hw/hw3
