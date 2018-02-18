@@ -1,0 +1,1 @@
+{"timestamps": [1513661346.922226, 1513661377.222208, 1513661390.811375], "initial_reset_timestamp": 1513661312.929019, "episode_types": ["t", "t", "t", "t"], "episode_lengths": [8233, 7689, 9025], "episode_rewards": [19.0, 21.0, 20.0]}
