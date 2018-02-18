@@ -1,6 +1,10 @@
 # Machine Learning Nano Degree Capstone Project: Deep Reinforcement Learning to train an agent to play Atari Pong game using DQN
 
-![cloud_steps](./assets/model.ckpt-5260000.gif)
+
+
+![Random model](./assets/random.gif)  |  ![DQN 5260000 steps](./assets/model.ckpt-5260000.gif) |  ![DQN 8090000 steps](./assets/model.ckpt-8090000.gif) |  ![DQN 9500000 steps](./assets/model.ckpt-9500000.gif)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Random model  |  DQN 5260000 steps |  DQN 8090000 steps | DQN 9500000 steps
 
 I have obtained the starter code from CS 294: Deep Reinforcement Learning, Spring 2017
 
